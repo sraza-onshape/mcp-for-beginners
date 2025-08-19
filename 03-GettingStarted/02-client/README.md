@@ -349,7 +349,7 @@ async fn main() -> Result<(), RmcpError> {
 
 ### -3- Listing the server features
 
-Now, we have a client that can connect to should the program be run. However, it doesn't actually list its features so let's do that next:
+Now, we have a client that can connect to the program should be run. However, it doesn't actually list its features so let's do that next:
 
 #### TypeScript
 
